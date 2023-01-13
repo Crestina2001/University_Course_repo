@@ -1,0 +1,48 @@
+以下为第 1 学期的课表：
+                      weekday 1                 weekday 2                 weekday 3                 weekday 4                 weekday 5
+ L1-2             程序设计基础                     NULL                     NULL                     NULL                     NULL
+ L3-5                 高等数学                 大学语文             程序设计基础           计算机组成原理                     NULL
+ L6-7                     英语                     NULL                     NULL                     NULL                     NULL
+L8-10           计算机组成原理                     NULL                 高等数学                     英语                     NULL
+以下为第 2 学期的课表：
+                      weekday 1                 weekday 2                 weekday 3                 weekday 4                 weekday 5
+ L1-2                 汇编语言                     NULL                     NULL                     NULL                     NULL
+ L3-5                 离散数学                 数据通信                 汇编语言                 线性代数                     英语
+ L6-7                     英语                     NULL                     NULL                     NULL                     NULL
+L8-10                 线性代数               计算机文化                 离散数学                 数据通信                     NULL
+以下为第 3 学期的课表：
+                      weekday 1                 weekday 2                 weekday 3                 weekday 4                 weekday 5
+ L1-2             数据结构算法                     英语             数据结构算法                     NULL                     NULL
+ L3-5                 数值分析                     NULL                 数值分析                     英语                     NULL
+ L6-7                 普通物理                     NULL                 普通物理                     NULL                     NULL
+L8-10           计算机系统结构                     NULL           计算机系统结构                     NULL                     NULL
+以下为第 4 学期的课表：
+                      weekday 1                 weekday 2                 weekday 3                 weekday 4                 weekday 5
+ L1-2               C++Builder                   VB.net                     英语                     NULL                     NULL
+ L3-5                     NULL                     NULL               C++Builder                   VB.net                     英语
+ L6-7                   Delphi              JSP程序设计                     NULL                     NULL                     NULL
+L8-10                     NULL                     NULL                   Delphi              JSP程序设计                     NULL
+以下为第 5 学期的课表：
+                      weekday 1                 weekday 2                 weekday 3                 weekday 4                 weekday 5
+ L1-2              ASP程序设计                   C#.net                     NULL                     NULL                     NULL
+ L3-5                     VC++                     NULL              ASP程序设计                   C#.net                     NULL
+ L6-7             PowerBuilder                     英语                     NULL                     NULL                     NULL
+L8-10                     NULL                     NULL             PowerBuilder                     英语                     NULL
+以下为第 6 学期的课表：
+                      weekday 1                 weekday 2                 weekday 3                 weekday 4                 weekday 5
+ L1-2               计算机网络                     英语                     NULL                     NULL                     NULL
+ L3-5                     Java                     NULL               计算机网络                     英语                     NULL
+ L6-7               数据库原理                     NULL                     NULL                     NULL                     NULL
+L8-10         面向对象程序设计                     NULL               数据库原理                     NULL                     NULL
+以下为第 7 学期的课表：
+                      weekday 1                 weekday 2                 weekday 3                 weekday 4                 weekday 5
+ L1-2             操作系统原理                     英语             操作系统原理                     NULL                     NULL
+ L3-5               单片机应用                     NULL                 编译原理                     英语                     NULL
+ L6-7                 编译原理                     NULL                     NULL                     NULL                     NULL
+L8-10                     NULL                     NULL                     NULL                     NULL                     NULL
+以下为第 8 学期的课表：
+                      weekday 1                 weekday 2                 weekday 3                 weekday 4                 weekday 5
+ L1-2                 微机原理                     英语                 微机原理                     NULL                     NULL
+ L3-5                     NULL                     NULL                     NULL                     英语                     NULL
+ L6-7                 算法设计                     NULL                 算法设计                     NULL                     NULL
+L8-10                     NULL                     NULL                     NULL                     NULL                     NULL
